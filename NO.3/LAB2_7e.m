@@ -30,7 +30,7 @@ yn=y1n+y0n;
 stem([0:99],yn(1:100))
 ylabel('y0[n]+y1[n]')
 %%
-syms n
+syms n;
 h = 0.9^n;
 %hn = [subs(h,[0:10]) zeros(1,89)]
 hn = [zeros(1,100)]
