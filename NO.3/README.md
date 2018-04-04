@@ -1,1 +1,1 @@
-> Some uncertainty for 2.7c and 2.7e
+> indeterminacy for 2.7c and 2.7e
