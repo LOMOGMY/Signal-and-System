@@ -5,9 +5,9 @@ Computer Explorations in SIGNALS AND SYSTEMS
 
 For reference only
 
-同时也可以参考[charles的github](https://github.com/SteveCharlesYang/Signal-System-Lab "查尔斯的github"),或[Kevin的github](https://github.com/ultramankevin/System-and-Signals-MATLAB)
+Any questions please give me [issues](https://github.com/LOMOGMY/Signal-and-System/issues "give me issues") 
 
-
+You can also check [Charles's github](https://github.com/SteveCharlesYang/Signal-System-Lab "github of Charles"),or [Kevin's github](https://github.com/ultramankevin/System-and-Signals-MATLAB "github of Kevin") for reference.
 
 
 
