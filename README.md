@@ -12,4 +12,4 @@ For reference only
 
 
 >>>>>>>
-![](http://xilinx.eetrend.com/files-eetrend-xilinx/imagecache/image600/news/201803/12673-35725-matlab.jpg)
+![](http://electricalacademia.com/wp-content/uploads/2017/07/Zero-State-Response-using-Matlab-Example-1.gif)
